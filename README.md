@@ -24,15 +24,30 @@ Je peux écrire/parler/comprendre et travailler en anglais si besoin.
 
 ![](/screens.png)
 
-**Dernières missions réalisés**
+**Dernières missions réalisés en 2023**
 
-- (nov. 2023) LWA SAS : Développement d'une web application musicale #nuxt #tailwind
-- (oct. 2023) Eloken : Développement d'une page d'enchère immobilière #php #html #css #bootstrap
-- (sept. 2023) Développement front-end pour un site de placements immobiliers
-- (juin 2023) Développement d'un site de comparaison de vélos pliants #nuxt #tailwind
-- (avril-juillet 2023) Développement d'une webapp d'analyse sportive destinnée aux escrimeurs #vue #tailwind #firebase
-- (début 2023) Agence Lumy : Développement front-end d'une plateforme de radios bretonnes #nuxt #tailwind #directus
-- (début 2023) Site e-commerce de stores : Conception d'un moteur de template et développement front-end de leurs nouvelles fiches produits (+60 fiches)
+```
+- LWA SAS : Développement d'une web application musicale
+  🔧 #nuxt #tailwind
+
+- Eloken : Développement d'une page d'enchère immobilière
+  🔧 #php #html #css #bootstrap
+
+- Développement front-end pour un site de placements immobiliers
+  🔧 #nuxt #tailwind
+
+- Développement d'un site de comparaison de vélos pliants
+  🔧 #nuxt #tailwind
+
+- Développement d'une webapp d'analyse sportive destinnée aux escrimeurs
+  🔧 #vue #tailwind #firebase
+
+- Agence Lumy : Développement front-end d'une plateforme de radios bretonnes
+  🔧 #nuxt #tailwind #directus
+
+- Site e-commerce de stores : Conception d'un moteur de template et développement front-end de leurs nouvelles fiches produits (+60 fiches)
+  🔧 #nodejs #html #css #ejs
+```
 
 N'hésitez pas à me contacter pour avoir plus d'infos :)
 
