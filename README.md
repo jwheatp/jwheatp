@@ -49,6 +49,8 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 
 N'hésitez pas à me contacter pour avoir plus d'infos :)
 
+Mail : julien@kompose.co
+
 ---
 
 ### Expérience en tant que formateur
