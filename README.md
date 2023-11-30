@@ -6,7 +6,7 @@ Je suis un développeur web fullstack passionné travaillant principalement avec
 
 Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’ai 10 ans d’expérience en développement web.
 
-Autres technos que j'ai déjà utilisées, en vrac : d3.js (data viz), Firebase, PHP, SQL, MongoDB.
+Autres technos que j'utilise, en vrac : TypeScript, d3.js (data viz), Firebase, PHP, SQL, MongoDB.
 
 Je suis aussi formateur depuis 6 ans en développement web.
 
@@ -27,8 +27,8 @@ Je peux écrire/parler/comprendre et travailler en anglais si besoin.
 **Dernières missions réalisés en 2023**
 
 ```
-- LWA SAS : Développement d'une web application musicale
-  🔧 #nuxt #tailwind
+- LWA SAS : Développement d'une web application d'éducation musicale
+  🔧 #nuxt #tailwind #pwa
 
 - Eloken : Développement d'une page d'enchère immobilière
   🔧 #php #html #css #bootstrap
