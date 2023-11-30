@@ -22,6 +22,8 @@ Je peux écrire/parler/comprendre et travailler en anglais si besoin.
 
 ### Expérience en tant que freelance
 
+![](/screens.png)
+
 **Dernières missions réalisés**
 
 - (nov. 2023) LWA SAS : Développement d'une web application musicale #nuxt #tailwind
@@ -31,10 +33,21 @@ Je peux écrire/parler/comprendre et travailler en anglais si besoin.
 - (avril-juillet 2023) Développement d'une webapp d'analyse sportive destinnée aux escrimeurs #vue #tailwind #firebase
 - (début 2023) Agence Lumy : Développement front-end d'une plateforme de radios bretonnes #nuxt #tailwind #directus
 - (début 2023) Site e-commerce de stores : Conception d'un moteur de template et développement front-end de leurs nouvelles fiches produits (+60 fiches)
-  
+
+N'hésitez pas à me contacter pour avoir plus d'infos :)
+
 ---
 
 ### Expérience en tant que formateur
+
+**Sujets traités :**
+- HTML/CSS
+- JavaScript
+- Animations sur une page web avec JS et GSAP
+- Bases de la programmation en JS, Python ou PHP
+- Bases de données & SQL
+- Développement back-end avec Express.js
+- Git
 
 **Ecole Supérieure du Digital (ESD Paris)** – *janvier 2019 à aujourd’hui*
 Je donne des formations à l’École Supérieure du Digital à Paris pour le Bachelor
