@@ -4,13 +4,11 @@ Je suis un développeur web fullstack passionné travaillant principalement avec
 - côté front-end : Nuxt 3 (Vue 3), Tailwind et GSAP ;
 - côté back-end : Express / Prisma ou Python / Flask / Django.
 
-Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’ai 10 ans d’expérience en développement web.
+Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’ai 10 ans d’expérience en développement web. Je suis aussi formateur depuis 6 ans en développement web.
 
-Autres technos que j'utilise, en vrac : TypeScript, d3.js (data viz), Firebase, PHP, SQL, MongoDB.
+*Autres technos que j'utilise, en vrac : TypeScript, d3.js (data viz), Firebase, PHP, SQL, MongoDB.*
 
-Je suis aussi formateur depuis 6 ans en développement web.
-
-Je peux écrire/parler/comprendre et travailler en anglais si besoin.
+🇬🇧 I speak english
 
 ---
 
