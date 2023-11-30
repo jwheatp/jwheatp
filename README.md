@@ -8,9 +8,15 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 
 Autres technos que j'ai déjà utilisées, en vrac : d3.js (data viz), Firebase, PHP, SQL, MongoDB.
 
-Je suis aussi formateur depuis 
+Je suis aussi formateur depuis 6 ans en développement web.
 
 Je peux écrire/parler/comprendre et travailler en anglais si besoin.
+
+---
+
+🔗 Liens rapides :
+- Portfolio & avis clients : https://www.malt.fr/profile/julienblegean
+- Expérience & formation : https://www.linkedin.com/in/jblegean/
 
 ---
 
