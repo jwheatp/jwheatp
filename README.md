@@ -28,7 +28,8 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 - (client confidentiel) Développement d'une plateforme professionnelle de mise en relation
   🔧 #nuxt #tailwind #supabase
 
-- (client confidentiel) Développement de composants d'animations et transitions en GSAP pour une plateforme d'édition de vidéo
+- (client confidentiel) Développement de composants d'animations et transitions
+  en GSAP pour une plateforme d'édition de vidéo
   🔧 #gsap
 
 - (École Supérieure du Digital) Animation d'une formation d'une semaine sur la librairie GSAP
@@ -43,6 +44,9 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 
 - (client confidentiel) Développement de composants pour un site e-commerce
   🔧 #js #tailwind
+
+- (client confidentiel) Design et développement d'un site vitrine
+  🔧 #nuxt #tailwind
 
 - (client confidentiel) Développement d'une web application d'éducation musicale
   🔧 #nuxt #tailwind #pwa
@@ -62,7 +66,8 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 - Agence Lumy : Développement front-end d'une plateforme de radios bretonnes
   🔧 #nuxt #tailwind #directus
 
-- (client confidentiel) Site e-commerce de stores : Conception d'un moteur de template et développement front-end de leurs nouvelles fiches produits (+60 fiches)
+- (client confidentiel) Site e-commerce de stores : Conception d'un moteur de template et développement front-end
+  de leurs nouvelles fiches produits (+60 fiches)
   🔧 #nodejs #html #css #ejs
 ```
 
