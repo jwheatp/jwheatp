@@ -22,28 +22,47 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 
 ![](/screens.png)
 
+**Dernières missions réalisés en 2024**
+
+```
+- (client confidentiel) Développement d'une plateforme professionnelle de mise en relation
+  🔧 #nuxt #tailwind #supabase
+
+- (client confidentiel) Développement de composants d'animations et transitions en GSAP pour une plateforme d'édition de vidéo
+  🔧 #gsap
+
+- (École Supérieure du Digital) Animation d'une formation d'une semaine sur la librairie GSAP
+  🔧 #formation #gsap
+```
+
 **Dernières missions réalisés en 2023**
 
 ```
-- LWA SAS : Développement d'une web application d'éducation musicale
+- (client confidentiel) Développement d'un portail pour une solution de placements financiers
+  🔧 #nuxt #tailwind #gsap
+
+- (client confidentiel) Développement de composants pour un site e-commerce
+  🔧 #js #tailwind
+
+- (client confidentiel) Développement d'une web application d'éducation musicale
   🔧 #nuxt #tailwind #pwa
 
 - Eloken : Développement d'une page d'enchère immobilière
   🔧 #php #html #css #bootstrap
 
-- Développement front-end pour un site de placements immobiliers
+- (client confidentiel) Développement front-end pour un site de placements immobiliers
   🔧 #nuxt #tailwind
 
-- Développement d'un site de comparaison de vélos pliants
+- FoldingCycleDb: Développement d'un site de comparaison de vélos pliants
   🔧 #nuxt #tailwind
 
-- Développement d'une webapp d'analyse sportive destinnée aux escrimeurs
+- SmartFencer: Développement d'une webapp d'analyse sportive destinnée aux escrimeurs
   🔧 #vue #tailwind #firebase
 
 - Agence Lumy : Développement front-end d'une plateforme de radios bretonnes
   🔧 #nuxt #tailwind #directus
 
-- Site e-commerce de stores : Conception d'un moteur de template et développement front-end de leurs nouvelles fiches produits (+60 fiches)
+- (client confidentiel) Site e-commerce de stores : Conception d'un moteur de template et développement front-end de leurs nouvelles fiches produits (+60 fiches)
   🔧 #nodejs #html #css #ejs
 ```
 
