@@ -10,6 +10,8 @@ Autodidacte mais aussi diplômé d'une école d'ingénieur (TELECOM Nancy), j’
 
 🇬🇧 I speak english
 
+![](/tms.png)
+
 ---
 
 🔗 Liens rapides :
